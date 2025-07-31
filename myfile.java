@@ -1,5 +1,5 @@
 public class myjavafile {
     public static void main(String[] args) {
-        System.out.println("Hello, World! sandesh  after trigger ");
+        System.out.println("heyy thier !");
     }
 }
